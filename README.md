@@ -24,3 +24,4 @@ You may need an additional loader to handle the result of these loaders.
 ```
 
 
+Bug was fixed in babel/generator 7.20.3 https://github.com/babel/babel/issues/15132
